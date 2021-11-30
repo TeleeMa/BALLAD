@@ -1,5 +1,7 @@
 # BALLAD
-This is the official code repository for [*A Simple Long-Tailed Rocognition Baseline via Vision-Language Model.*](https://arxiv.org/pdf/2111.14745.pdf).
+This is the official code repository for [*A Simple Long-Tailed Rocognition Baseline via Vision-Language Model.*](https://arxiv.org/pdf/2111.14745.pdf)
+
+![image](https://github.com/TeleeMa/BALLAD/blob/main/figure.PNG)
 
 ## Requirements
 * Python3
