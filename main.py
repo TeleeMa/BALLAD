@@ -7,6 +7,7 @@ import warnings
 import yaml
 from utils import source_import, get_value
 
+##change your data root here
 data_root = {'ImageNet': './datasets/ImageNet/',
              'Places': './datasets/Places/'}
 
